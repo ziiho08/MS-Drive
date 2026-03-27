@@ -29,13 +29,7 @@ MS-Drive covers five Fitzpatrick skin types (2–6), recorded at 1920×1080 (RGB
 
 <div align="center">
 
-| Skin Type | RGB | NIR |
-|:---:|:---:|:---:|
-| **Type 2** | <img src="assets/samples/t2_rgb.gif" width="200"/> | <img src="assets/samples/t2_nir.gif" width="200"/> |
-| **Type 3** | <img src="assets/samples/t3_rgb.gif" width="200"/> | <img src="assets/samples/t3_nir.gif" width="200"/> |
-| **Type 4** | <img src="assets/samples/t4_rgb.gif" width="200"/> | <img src="assets/samples/t4_nir.gif" width="200"/> |
-| **Type 5** | <img src="assets/samples/t5_rgb.gif" width="200"/> | <img src="assets/samples/t5_nir.gif" width="200"/> |
-| **Type 6** | <img src="assets/samples/t6_rgb.gif" width="200"/> | <img src="assets/samples/t6_nir.gif" width="200"/> |
+
 
 </div>
 
@@ -71,7 +65,7 @@ We encourage the community to evaluate the MS Drive and share their results.
 
 ### Baseline Results — Full Test Set
 
-| Method | Type | MAE ↓ | RMSE ↓ | MAPE ↓ | Pearson ↑ |
+| Method | Type | MAE ↓ | RMSE ↓ | MAPE ↓ | Pearson ↑ | Code |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | ICA | Unsupervised | — | — | — | — | — |
 | POS | Unsupervised | — | — | — | — | — |
