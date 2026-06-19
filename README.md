@@ -36,7 +36,7 @@ MS-Drive covers five Fitzpatrick skin types (2–6), recorded at 1920×1080 (RGB
     <td><img src="./assets/sample_video_4.gif" width="360" alt="NIR sample"/></td>
   </tr>
 </table>
-<sub>Subject 01 — synchronized RGB (1920×1080) and NIR (848×480) sample clips</sub>
+<sub> Synchronized RGB (1920×1080) and NIR (848×480) sample clips. The red and blue signals denote the ground truth ECG and the estimated rPPG waveform, respectively. </sub>
 </div>
 
 ## 🗂️ Dataset Structure
