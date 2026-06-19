@@ -29,6 +29,8 @@ MS-Drive covers five Fitzpatrick skin types (2–6), recorded at 1920×1080 (RGB
   <img src="./assets/sample_video_1.gif" width="360" alt="RGB sample"/>
   &nbsp;&nbsp;
   <img src="./assets/sample_video_2.gif" width="360" alt="NIR sample"/>
+    &nbsp;&nbsp;
+  <img src="./assets/sample_video_3.gif" width="360" alt="NIR sample"/>
   <br>
   <sub>Subject 01 — synchronized RGB (1920×1080) and NIR (848×480) sample clips</sub>
 </div>
