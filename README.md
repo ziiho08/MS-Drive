@@ -55,30 +55,6 @@ MS-Drive/
 
 <br>
 
-## 📊 Benchmark
-
-<br>
-
-We encourage the community to evaluate the MS Drive and share their results.
-
-<br>
-
-### Baseline Results — Full Test Set
-
-| Method | Type | MAE ↓ | RMSE ↓ | MAPE ↓ | Pearson ↑ | Code |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| ICA | Unsupervised | — | — | — | — | — |
-| POS | Unsupervised | — | — | — | — | — |
-| CHROME | Unsupervised | — | — | — | — | — |
-| PhysNet | Supervised | — | — | — | — | — |
-
-
-> 📌 Results will be updated upon publication. If you evaluate on MS-Drive, please open a PR — we'll keep this table up to date.
-
-<br>
-
-
-
 ## 🔑 Access and Usage
 
 <br>
@@ -89,7 +65,7 @@ We encourage the community to evaluate the MS Drive and share their results.
 
 **To request access, follow these steps:**
 
-**1.** Download the [Data Release Agreement](./MS-Drive Database Release Agreement.pdf)
+**1.** Download the [Data Release Agreement](./MS-Drive_Database_Release_Agreement.pdf)
 
 **2.** Complete, sign, and send the agreement from your **institutional email** to `jihochoi@jbnu.ac.kr`
   - Subject line: `MS-Drive Access Request — <Your Institution>`
