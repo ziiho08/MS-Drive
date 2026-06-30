@@ -82,10 +82,19 @@ MS-Drive/
 
 ## 📄 Citation
 
-<br>
+If you use **MS-Drive** or find this repository useful for your research, please cite our paper:
 
-If you use MS-Drive in your research, please cite:
-
+```bibtex
+@misc{choi2026msrppgmultispectralstatespace,
+  title         = {MS-rPPG: Multi-spectral State Space Model for Remote Photoplethysmography in Driver Monitoring Systems},
+  author        = {Choi, Jiho and Lee, Sang Jun},
+  year          = {2026},
+  eprint        = {2606.21115},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  url           = {https://arxiv.org/abs/2606.21115}
+}
+```
 
 
 <br>
