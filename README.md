@@ -46,10 +46,10 @@ MS-Drive covers five Fitzpatrick skin types (2–6), recorded at 1920×1080 (RGB
 ```
 MS-Drive/
 ├── subject01/
-│   ├── rgb.mp4           # 1920×1080 @ 30FPS
-│   ├── nir.mp4           # 848×480  @ 30FPS
-│   ├── ecg.csv           # 3-lead ECG @ 128Hz
-│   └── meta.json         # gender, Fitzpatrick
+│   ├── rgb.mp4           # 1920×1080
+│   ├── nir.mp4           # 848×480  
+│   ├── ecg.csv           # 3-lead ECG
+│   └── GT_HR.csv         # Calculated HR from ECG
 ├── subject02/
 │   └── ...
 ├── subject50/
